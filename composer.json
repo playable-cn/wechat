@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/wechat",
+    "name": "playable-cn/wechat",
     "description": "微信SDK",
     "keywords": [
         "easywechat",
@@ -10,6 +10,10 @@
     ],
     "license": "MIT",
     "authors": [
+        {
+            "name": "playable-cn",
+            "email": "developer@playable.cn"
+        },
         {
             "name": "overtrue",
             "email": "anzhengchao@gmail.com"
